@@ -10,7 +10,6 @@ class Transaction {
         return amount;
     }
 }
-
 /* Information Expert Principle: The BankAccount class follows the Information Expert principle 
 by managing its own balance and processing transactions. This is because the BankAccount class has 
 the information needed to update its balance correctly based on transactions.
