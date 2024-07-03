@@ -1,4 +1,3 @@
-# Design_Principles
 # Design Principles
 
 In design principles, there are 2 types that we will be discussing:
